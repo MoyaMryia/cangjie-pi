@@ -1,0 +1,9 @@
+[package]
+name = "cpi"
+version = "0.0.10"
+description = "AI agent loop with multi-protocol LLM support"
+
+[dependencies]
+
+[build]
+compile-option = "-O2"
